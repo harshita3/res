@@ -50,12 +50,12 @@ function App()
     <div class="hero-body">
       <div class="container has-text-centered">
         <h1 class="title has-text-white-ter">
-          I'm Harshita Bhatt 
+          I'm Harshita
         </h1>
         <h2 class="subtitle has-text-white-ter">
          I am a student at the University of Wisconsin Madison. <br />
          I am studying <i>Computer Science</i>, <i>Economics</i>, <i>Math</i>, and <i>Developmental Economics.</i> <br />
-         Here's a quick snapshot of me and the work that I've done!
+         Here's a quick snapshot of my undergraduate work!
         </h2>
        
       </div>
@@ -103,10 +103,14 @@ function App()
     dateText="06/2020 – Present"
     style={{ color: '#e8a87c !important'}}
   >
-    <h4><strong>Analyst, Discover Financial Services</strong></h4>
+    <h4><strong>Analytics Intern, Discover Financial Services</strong></h4>
     <h4><i>Clean, model, and analyze data to determine success of Discover’s various business endeavors</i></h4>
     <p> <br />
     Projects worked on: <strong>Discover Self Service Portal</strong> - singlehandedly coded applicaition for users to pull data to model and analyze 
+    <br /> <br />
+    Used SQL, Python, Dash, Snowflake and AWS to create and deploy application. 
+    <br /> <br />
+    Learned about the business behind personal loans and credit cards and the data and analytics fueling their business strategies.
     <br /> <br />
     Perform validation and testing of models to ensure adequacy and reformulate models as necessary <br /><br />
     Formulate mathematical or situation models of problems, relating constants and variables, restrictions, alternatives, conflicting
@@ -126,6 +130,8 @@ function App()
     <p> <br />
     Work with the Business and Entrepreneurship Clinic to support the Director and MBA Consultants and analyze issues facing
     startups <br /> <br />
+    Companies worked with: <strong> Hello Loom, Dryp, EnvEco Consulting, FixedPicks, Curlz of Glory, Cider House of Wisconsin, Offshot Photography, Lev Apparel, Chipper Golf, Cultured Decedance, Atrility</strong> and many more!
+    <br /> <br />
     Perform tasks such as overall business strategy, target market analysis, market sizing, pricing structure, revenue modeling,
     operations, customer acquisition, strategy, accounting, proforma analysis, competitive analysis, IP evaluation,
     and determining future trends <br /> <br />
@@ -182,7 +188,7 @@ function App()
 
 
 </body>
-  <section class="has-background-dark">
+  <section class="has-background-grey-lighter">
     <div class="container">
     <a name = "extra"></a> <h1 class="title">Leadership & Extracurriculars</h1> <hr />
     </div>
@@ -210,6 +216,12 @@ function App()
     <div>
       <p class="heading">Tutor</p>
       <p class="title">Teaching k-12 students</p>
+    </div>
+  </div>
+  <div class="level-item has-text-centered">
+    <div>
+      <p class="heading">Research Analyst</p>
+      <p class="title">SDW Alumni</p>
     </div>
   </div>
   <div class="level-item has-text-centered">
@@ -246,7 +258,12 @@ function App()
   </div>
   <div class="level-item has-text-centered">
     <div>
-      <p class="title has-text-white-ter">Globalization and Youth</p>
+      <p class="title has-text-white-ter">Globalization and the Youth</p>
+    </div>
+  </div>
+  <div class="level-item has-text-centered">
+    <div>
+      <p class="title has-text-white-ter">AWS DeepRacer</p>
     </div>
   </div>
 
