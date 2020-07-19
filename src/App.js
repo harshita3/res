@@ -275,7 +275,7 @@ function App()
   <div class="content has-text-centered">
     <p>
       <strong>Created and Designed </strong> by Harshita Bhatt.<br />
-      <p>  <strong>email:  </strong> hbhatt3@wisc.edu <strong>  phone number:</strong> 262-271-4822</p>
+      <p>  <strong>email:  </strong> hbhatt3@wisc.edu <strong>  phone number:</strong> (262)-271-4822</p>
 
 
     </p>
